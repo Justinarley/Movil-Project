@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442013492539",
+    "project_id": "proyecto-integrador-beabb",
+    "storage_bucket": "proyecto-integrador-beabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442013492539:android:98ac0541c34f93aa2c431e",
+        "android_client_info": {
+          "package_name": "com.justin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyfrO0O_lcsTqQqKgtAjke9hRQbk2nS8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
